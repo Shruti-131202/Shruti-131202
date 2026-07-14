@@ -1,131 +1,104 @@
 # Hi, I'm Shruti Khandelwal 👋
-## Aspiring Data Analyst | SQL | Power BI | Python | Excel
+### Data Analyst | SQL • Power BI • Python • Excel
 
-I'm passionate about using data to solve real business problems and support better decision-making. My work focuses on transforming raw data into meaningful insights by combining SQL, Power BI, Python, and Excel with business thinking.
+I build end-to-end analytics projects that solve real business problems — turning raw data into insights that improve profitability, retention, and operational performance. Across 5 projects spanning **Banking, SaaS, Retail, and Logistics**, I apply the same rigorous process: SQL analysis → business insight → dashboard → actionable recommendation.
 
-Instead of building dashboards just for visualization, I develop end-to-end analytics projects that answer business questions, measure performance, identify risks, uncover revenue opportunities, and provide actionable recommendations.
+📫 **[LinkedIn](https://www.linkedin.com/in/shruti-khandelwal-05a61b2b4)** · 📧 shrutikhandelwal1213@gmail.com
 
-My projects span multiple industries—including Banking, SaaS, Retail, and Supply Chain—and simulate real-world business scenarios that reflect the work of Data Analysts in consulting, product, and financial services.
+---
 
-## What You'll Find Here
-* End-to-end business analytics projects
-* SQL analysis using joins, CTEs, window functions, and KPI calculations
-* Interactive Power BI dashboards for executive reporting
-* Python-based data cleaning and exploratory analysis
-* Business insights backed by data and measurable metrics
-* Recommendations focused on improving profitability, customer retention, operational efficiency, and business performance
-## Featured Projects
-### Credit Card Portfolio Profitability & Revenue Leakage Analysis
+## 💼 Featured Projects
 
-Analyzed a credit card portfolio containing 10,000 customers, 150,000 transactions, and 12 months of business data to evaluate portfolio profitability, revenue leakage, customer behavior, delinquency risk, and portfolio health.
+### 💳 Credit Card Portfolio Profitability & Revenue Leakage Analysis
+**Business Problem:** Evaluate the profitability of a credit card portfolio and identify where revenue is being lost through fees, rewards, and delinquencies.
 
-### Highlights
-* Performed end-to-end SQL analysis across multiple business domains
-* Built a 5-page executive Power BI dashboard
-* Evaluated profitability across card products and customer segments
-* Identified major revenue leakage through cashback, rewards, and fee waivers
-* Analyzed delinquency patterns and portfolio health
-* Delivered business recommendations to improve profitability and reduce financial risk
+- Analyzed **10,000 customers, 150,000 transactions**, and 12 months of portfolio data
+- Built a **5-page executive Power BI dashboard** for leadership reporting
+- Quantified revenue leakage from cashback, rewards, and fee waivers
+- Evaluated profitability by card product and customer segment
+- Analyzed delinquency trends to assess portfolio health and risk
+- Delivered recommendations to improve profitability and reduce financial risk
 
-* Tech Stack: SQL • MySQL • Power BI • Excel
+**Tools:** SQL • MySQL • Power BI • Excel
+**[View Project →](#)**
 
-### Customer Retention & Revenue Optimization Analysis
+---
 
-Analyzed customer purchasing behavior to understand repeat purchases, customer retention, and revenue concentration.
+### 🛍 Customer Retention & Revenue Optimization Analysis
+**Business Problem:** Identify which customer segments drive revenue and understand retention patterns to improve customer lifetime value.
 
-### Highlights
-* RFM Customer Segmentation
-* Cohort Analysis
-* Customer Retention Analysis
-* Revenue Optimization
-* Executive KPI Dashboard
-* Business recommendations to improve customer lifetime value
+- Performed **RFM segmentation** to identify high-value and at-risk customers
+- Conducted **cohort analysis** to measure retention over time
+- Analyzed repeat purchase behavior and revenue concentration
+- Built an executive KPI dashboard with segment-level insights
+- Recommended strategies to improve retention and revenue growth
 
-* Tech Stack: SQL • Power BI • Excel
+**Tools:** SQL • Power BI • Excel
+**[View Project →](#)**
 
-### SaaS Revenue Risk & Customer Churn Analysis
+---
 
-Analyzed customer engagement, subscription revenue, and churn risk to identify revenue concentration and opportunities for improving recurring revenue.
+### ☁ SaaS Revenue Risk & Customer Churn Analysis
+**Business Problem:** Identify revenue concentration and churn risk within a SaaS subscription business.
 
-### Highlights
-* Revenue concentration analysis
-* Customer churn risk assessment
-* Customer engagement analysis
-* Executive KPI dashboard
-* Business recommendations for customer retention
+- Analyzed customer engagement and subscription revenue patterns
+- Identified accounts contributing the highest revenue concentration risk
+- Evaluated activity trends as early indicators of churn
+- Built an executive dashboard for revenue and customer health monitoring
+- Proposed recommendations to improve recurring revenue and retention
 
-* Tech Stack: SQL • Power BI • Python
+**Tools:** SQL • Power BI • Python
+**[View Project →](#)**
 
-### Logistics Delay & Cost Leakage Analysis
+---
 
-Analyzed shipment performance to identify operational inefficiencies, SLA breaches, delivery delays, and cost leakage.
+### 🚚 Logistics Delay & Cost Leakage Analysis
+**Business Problem:** Improve logistics performance by analyzing delivery delays, SLA breaches, and operational cost leakage.
 
-### Highlights
-* SLA Performance Analysis
-* Delivery Delay Analysis
-* Cost Leakage Identification
-* Logistics Performance Dashboard
-* Operational improvement recommendations
+- Evaluated delivery performance across shipment records
+- Measured SLA breach rates and delay patterns
+- Identified sources of operational cost leakage
+- Built a logistics performance dashboard for ops reporting
+- Recommended process improvements to reduce delays and improve efficiency
 
-* Tech Stack: SQL • Power BI • Excel
+**Tools:** SQL • Power BI • Excel
+**[View Project →](#)**
 
-### Sales & Business Performance Analysis
+---
 
-Explored sales performance across customers, products, and revenue trends to identify growth opportunities and improve business performance.
+### 📈 Sales & Business Performance Analysis
+**Business Problem:** Analyze sales performance to identify revenue trends, top-performing products, and growth opportunities.
 
-### Highlights
-* Sales trend analysis
-* Product performance analysis
-* Customer purchasing behavior
-* KPI dashboard
-* Business recommendations
+- Evaluated sales performance across products, regions, and customers
+- Identified top revenue-driving products and customer segments
+- Built KPI dashboards for ongoing business reporting
+- Delivered recommendations to support revenue growth
 
-* Tech Stack: SQL • Power BI • Excel
+**Tools:** SQL • Power BI • Excel
+**[View Project →](#)**
 
-## Technical Skills
-* SQL
-* Data Cleaning
-* Joins
-* Aggregate Functions
-* Subqueries
-* Common Table Expressions (CTEs)
-* Window Functions
-* Business KPI Analysis
-* Power BI
-* DAX
-* Power Query
-* Data Modeling
-* Interactive Dashboards
-* Executive Reporting
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Excel
-* Pivot Tables
-* Lookup Functions
-* Conditional Formatting
-* Dashboard Development
-* Data Cleaning
-* Business Problems Solved
+---
 
-### Across my projects, I have worked on solving business challenges such as:
+## 🛠 Core Skills
 
-* Improving credit card portfolio profitability
-* Identifying revenue leakage in banking products
-* Analyzing customer retention and repeat purchase behavior
-* Detecting revenue concentration and churn risk in SaaS businesses
-* Reducing logistics delays and operational cost leakage
-* Tracking business KPIs through executive dashboards
-* Segmenting customers based on profitability and behavior
-* Supporting business decisions with data-driven insights
-## Currently Learning
-* Advanced SQL for Business Analytics
-* Python for Data Analytics
-* Advanced Power BI
-* Business Intelligence
-* Banking & Financial Analytics
-## Let's Connect
+| SQL | Power BI | Python | Excel |
+|---|---|---|---|
+| Joins & Subqueries | DAX | Pandas | Pivot Tables |
+| CTEs | Power Query | NumPy | Lookup Functions |
+| Window Functions | Data Modeling | Matplotlib | Conditional Formatting |
+| KPI Calculations | Interactive Dashboards | Exploratory Data Analysis | Dashboard Development |
+
+**Core Expertise:** Revenue & Profitability Analysis · Customer Segmentation · Churn & Retention Analysis · Operational Analytics · Executive KPI Reporting
+
+---
+
+## 📚 Currently Learning
+Advanced SQL for Business Analytics · Advanced Power BI · Python for Data Analytics · Banking & Financial Analytics
+
+---
+
+## *Open to Data Analyst opportunities — let's connect!*
+
 * Email: shrutikhandelwal1213@gmail.com
 * LinkedIn: https://www.linkedin.com/in/shruti-khandelwal-05a61b2b4
 *  GitHub: https://github.com/Shruti-131202
