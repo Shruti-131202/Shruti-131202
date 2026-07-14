@@ -20,7 +20,7 @@ I build end-to-end analytics projects that solve real business problems — turn
 - Delivered recommendations to improve profitability and reduce financial risk
 
 **Tools:** SQL • MySQL • Power BI • Excel
-**[View Project →](#)**
+**[View Project →](https://github.com/Shruti-131202/Credit-Card-Portfolio-Profitability-Analysis)**
 
 ---
 
@@ -34,7 +34,7 @@ I build end-to-end analytics projects that solve real business problems — turn
 - Recommended strategies to improve retention and revenue growth
 
 **Tools:** SQL • Power BI • Excel
-**[View Project →](#)**
+**[View Project →](https://github.com/Shruti-131202/customer-retention-revenue-optimization-analysis)**
 
 ---
 
@@ -48,7 +48,7 @@ I build end-to-end analytics projects that solve real business problems — turn
 - Proposed recommendations to improve recurring revenue and retention
 
 **Tools:** SQL • Power BI • Python
-**[View Project →](#)**
+**[View Project →](https://github.com/Shruti-131202/saas-revenue-risk-churn-analysis)**
 
 ---
 
@@ -62,7 +62,7 @@ I build end-to-end analytics projects that solve real business problems — turn
 - Recommended process improvements to reduce delays and improve efficiency
 
 **Tools:** SQL • Power BI • Excel
-**[View Project →](#)**
+**[View Project →](https://github.com/Shruti-131202/Logistics-Delay-Cost-Leakage-Analysis)**
 
 ---
 
@@ -75,7 +75,7 @@ I build end-to-end analytics projects that solve real business problems — turn
 - Delivered recommendations to support revenue growth
 
 **Tools:** SQL • Power BI • Excel
-**[View Project →](#)**
+**[View Project →](https://github.com/Shruti-131202/Sales-Business-Performance-Analysis)**
 
 ---
 
