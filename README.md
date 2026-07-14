@@ -1,7 +1,7 @@
 # Hi, I'm Shruti Khandelwal 👋
 ### Data Analyst | SQL • Power BI • Python • Excel
 
-I build end-to-end analytics projects that solve real business problems — turning raw data into insights that improve profitability, retention, and operational performance. Across 5 projects spanning **Banking, SaaS, Retail, and Logistics**, I apply the same rigorous process: SQL analysis → business insight → dashboard → actionable recommendation.
+I build end-to-end analytics projects that solve real business problems — turning raw data into insights that improve profitability, retention, and operational performance. Across 4 projects spanning **Banking, SaaS, Retail, and Logistics**, I apply the same rigorous process: SQL analysis → business insight → dashboard → actionable recommendation.
 
 📫 **[LinkedIn](https://www.linkedin.com/in/shruti-khandelwal-05a61b2b4)** · 📧 shrutikhandelwal1213@gmail.com
 
@@ -63,19 +63,6 @@ I build end-to-end analytics projects that solve real business problems — turn
 
 **Tools:** SQL • Power BI • Excel
 **[View Project →](https://github.com/Shruti-131202/Logistics-Delay-Cost-Leakage-Analysis)**
-
----
-
-### 📈 Sales & Business Performance Analysis
-**Business Problem:** Analyze sales performance to identify revenue trends, top-performing products, and growth opportunities.
-
-- Evaluated sales performance across products, regions, and customers
-- Identified top revenue-driving products and customer segments
-- Built KPI dashboards for ongoing business reporting
-- Delivered recommendations to support revenue growth
-
-**Tools:** SQL • Power BI • Excel
-**[View Project →](https://github.com/Shruti-131202/Sales-Business-Performance-Analysis)**
 
 ---
 
