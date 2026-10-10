@@ -79,10 +79,7 @@ I build end-to-end analytics projects that solve real business problems — turn
 
 ---
 
-## 📚 Currently Learning
-Advanced SQL for Business Analytics · Advanced Power BI · Python for Data Analytics · Banking & Financial Analytics
 
----
 
 ## *Open to Data Analyst opportunities — let's connect!*
 
